@@ -6,6 +6,8 @@ public class GitProject {
 		
 		System.out.println("Statement 1");
 		System.out.println("Statement 2");
+		System.out.println("Statement 3");
+		System.out.println("Statement 4");
 		
 		
 	}
